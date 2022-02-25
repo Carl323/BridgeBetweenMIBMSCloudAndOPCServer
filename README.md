@@ -1,2 +1,4 @@
 # BridgeBetweenMIBMSCloudAndOPCServer
-支持西门子PLC OPCServer与基于XSuNet的MIBMSCloud服务器进行通讯的中间件。
+支持西门子PLC OPCServer与基于XSuNet1.0的MIBMSCloud服务器进行通讯的中间件(该项目已被废弃)
+
+我将在不久后更新支持XSuNet2+版本的XSuNetBridgeForOPCServer
